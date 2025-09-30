@@ -1,30 +1,30 @@
-# Spotify dashboard app
+# Spottystats 🎧
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+[Live Demo](https://spottystats.vercel.app/)  
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/dans-projects-98d4c07f/v0-spotify-dashboard-app)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/R5jSm7aJEQe)
+A dashboard that lets users explore their Spotify listening habits, including top tracks, artists, and listening trends.
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## Features
 
-## Deployment
+- Connect to your Spotify account (OAuth)  
+- View your top artists, tracks, and listening history  
+- Insightful visualizations and trends  
+- Responsive, user-friendly UI  
 
-Your project is live at:
+---
 
-**[https://vercel.com/dans-projects-98d4c07f/v0-spotify-dashboard-app](https://vercel.com/dans-projects-98d4c07f/v0-spotify-dashboard-app)**
+## Screenshots
 
-## Build your app
+<img width="1902" height="912" alt="{279149F0-CD59-4099-805A-A42E526AC158}" src="https://github.com/user-attachments/assets/745dea05-c2e5-43b8-8e4d-5db946ed6f0e" />
 
-Continue building your app on:
 
-**[https://v0.app/chat/projects/R5jSm7aJEQe](https://v0.app/chat/projects/R5jSm7aJEQe)**
+---
 
-## How It Works
+## Tech Stack
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+- **Frontend**: (e.g. Next.js, Typescript, Tailwind)  
+- **Backend / API**: (e.g. Node.js, Next.js API routes, or serverless functions)  
+- **Authentication**: Spotify Web API (OAuth 2.0)  
+- **Deployment**: Vercel  
